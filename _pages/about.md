@@ -10,7 +10,7 @@ redirect_from:
 
 I am a postdoc at the [University of Maryland](https://umd.edu) a member of [UMIACS](https://www.umiacs.umd.edu/) and the [Computational Linguistics and Information Processing (CLIP) lab](https://wiki.umiacs.umd.edu/clip/), where I have been working with [Doug Oard](https://user.eng.umd.edu/~oard/). I previously completed my PhD in computational linguistics at the [Institute of Formal and Applied Linguistics](http://ufal.mff.cuni.cz/) at [Charles University in Prague](https://cuni.cz/) where I was advised by [Pavel Pecina](http://ufal.mff.cuni.cz/~pecina/index.html). 
 
-I have been working on a wide range of information retrieval and natural langauge processing problems and I particurly enjoy working on interdisciplinary research and applications. My main reasearch focus is cross-language information retrieval and multimedia, speech and video retrieval. 
+I have been working on a wide range of information retrieval and natural langauge processing problems and I particularly enjoy working on interdisciplinary research and applications. My main research focus is cross-language information retrieval and multimedia, speech and video retrieval. 
 
 News
 ======
