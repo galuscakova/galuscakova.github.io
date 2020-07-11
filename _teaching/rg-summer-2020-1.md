@@ -4,5 +4,5 @@ collection: teaching
 type: "Reading Group"
 permalink: "http://irrg.umiacs.io/"
 venue: "University of Maryland"
-date: "Summer 2020"
+date: "1-6-2020"
 ---
