@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Postdoc working on Information Retrieval."
   location         : "College Park, MD, USA"
-  employer         : "University of Maryland
+  employer         : "University of Maryland"
   googlescholar    : "https://scholar.google.com/citations?user=uyUMxHYAAAAJ&hl=en"
   email            : "galuscakova@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Petra_Galuscakova"
@@ -180,7 +180,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -226,10 +226,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _projects
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true
