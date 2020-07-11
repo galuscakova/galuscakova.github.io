@@ -1,5 +1,5 @@
 ---
-title: "Information Retrieval Reading Group Summer 2020"
+title: "Information Retrieval Reading Group - Summer 2020"
 collection: teaching
 type: "Reading Group"
 link: http://irrg.umiacs.io/
