@@ -216,8 +216,8 @@ defaults:
       comments: true
   # _publications
   - scope:
-      path: ""
-      type: publications
+      path: "/_publications/publications.md"
+      type: pages
     values:
       layout: single
       author_profile: true
