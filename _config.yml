@@ -216,7 +216,7 @@ defaults:
       comments: true
   # _publications
   - scope:
-      path: "/publications/"
+      path: "publications"
       type: pages
     values:
       layout: single
