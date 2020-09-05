@@ -9,7 +9,7 @@ excerpt: ""
 
 ## 2020    
 
-Combining Evidence for Cross-language Information Retrieval
+[Combining Evidence for Cross-language Information Retrieval](https://www.slideshare.net/galuscakova/combining-evidence-for-crosslanguage-information-retrieval)
 Fordham University, New York City, NY, USA, March 31
 
 Combining Modalities for Hyperlinking Navigation in Multimedia Collections
@@ -20,11 +20,11 @@ Cross-Language Information Retrieval in the MATERIAL Program
 Qatar Computing Research Institute, Doha, Qatar, March 28
 
 ## 2015
-Multimodal Features for Search and Hyperlinking of TV Content
+[Multimodal Features for Search and Hyperlinking of TV Content](https://www.slideshare.net/galuscakova/multimodal-features-for-linking-television-content)
 Center for Machine Perception, Czech Technical University, Prague, Czech Republic, February 12
 
 ## 2014 
-Multimodal Features for Search and Hyperlinking of Video Content
+[Multimodal Features for Search and Hyperlinking of Video Content](https://www.slideshare.net/galuscakova/idiap-galuscakova)
 IDIAP Research Institute, Martigny, Switzerland, October 29
 
 # Campus Talks
