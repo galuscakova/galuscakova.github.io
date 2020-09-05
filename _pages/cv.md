@@ -11,49 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Computational Linguistics, Institute of Formal and Applied Linguistics, Charles University, Prague, Czech Republic, 2018
+* Mgr. in Computational Linguistics (Equivalent to M.Sc.), Charles University, Prague, Czech Republic, 2011
+* Bc. in Computer Science (Equivalent to B.Sc.), Charles University, Prague, Czech Republic, 200
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Since 2018: Postdoctoral Researcher, University of Maryland Institute for Advanced Computer Studies, University of Maryland
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Since 2017: Language expert, Lionbridge
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2010 - 2017: Research assistant, Institute of Formal and Applied Linguistics, Charles University
+
+* 2010: Research programmer-linguist, Seznam a.s.
