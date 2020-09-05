@@ -64,7 +64,7 @@ Tamchyna Aleš, **Galuščáková Petra**, Kamran Amir, Stanojević Miloš, Boja
 ## 2011    
 Mareček David, Rosa Rudolf, **Galuščáková Petra**, Bojar Ondřej: [Two-step Translation with Grammatical Post-processing](https://www.aclweb.org/anthology/W11-2152/). In: Proceedings of the Sixth Workshop on Statistical Machine Translation, WMT 2011, pp. 426-432, Edinburgh, Scotland, 2011.
 
-### Other Workshop Papers
+# Other Workshop Papers
 
 ## 2015    
 **Galuščáková Petra**, Batko Michal, Kruliš Martin, Lokoč Jakub, Novák David, Pecina Pavel: [CUNI at TRECVID 2015 Video Hyperlinking Task](https://www-nlpir.nist.gov/projects/tvpubs/tv15.papers/cuni.pdf). In: TRECVID 2015 Workshop Notebook, Gaithersburg, MD, USA, 2015.
