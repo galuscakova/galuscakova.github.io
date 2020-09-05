@@ -14,9 +14,9 @@ Nair Suraj, **Galuščáková Petra**, Oard Douglas W.: [Combining Contextualize
 
 Nair Suraj, Ragni Anton, Klejch Ondrej, **Galuščáková Petra** and Oard W. Douglas: [Experiments with Cross-Language Speech Retrieval for Lower-Resource Languages](https://link.springer.com/chapter/10.1007/978-3-030-42835-8_13). In: Asia Information Retrieval Societies Conference, AIRS 2019, pp 145-157, Hong Kong, China, 2019.
 
-Shing Han-Chin, Barrow Joe, **Galuščáková Petra**, Oard W. Douglas, Resnik Philip: Unsupervised System Combination for Set-based Retrieval with Expectation    Maximization. In: International Conference of the Cross-Language Evaluation Forum for European Languages, CLEF 2019, pp. 191-197, Lugano, Switzerland, 2019.
+Shing Han-Chin, Barrow Joe, **Galuščáková Petra**, Oard W. Douglas, Resnik Philip: [Unsupervised System Combination for Set-based Retrieval with Expectation    Maximization](https://link.springer.com/chapter/10.1007/978-3-030-28577-7_16). In: International Conference of the Cross-Language Evaluation Forum for European Languages, CLEF 2019, pp. 191-197, Lugano, Switzerland, 2019.
 
-Suzuki Tokinori, Ikeda Daisuke, **Galuščáková Petra**, Oard W. Douglas: [Towards Automatic Cataloging of Image and Textual Collections with Wikipedia] (https://link.springer.com/chapter/10.1007/978-3-030-28577-7_16). In: International Conference on Asian Digital Libraries, ICADL 2019, pp. 167-180, Kuala Lumpur, Malaysia, 2019.
+Suzuki Tokinori, Ikeda Daisuke, **Galuščáková Petra**, Oard W. Douglas: [Towards Automatic Cataloging of Image and Textual Collections with Wikipedia] (https://link.springer.com/chapter/10.1007/978-3-030-34058-2_16). In: International Conference on Asian Digital Libraries, ICADL 2019, pp. 167-180, Kuala Lumpur, Malaysia, 2019.
 
 ## 2018    
 **Galuščáková Petra**, Neužilová Lucie: [Low Resource Methods for Medieval Document Sections Analysis](https://www.aclweb.org/anthology/L18-1371/). In: Proceedings of the Eleventh International Conference on Language Resources and Evaluation, LREC 2018, Miyazaki, Japan, 2018.
