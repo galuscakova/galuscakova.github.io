@@ -9,7 +9,7 @@ excerpt: ""
 
 [Scripts and resources](https://github.com/galuscakova/podcasts) used at the 2020 TREC Podcasts Track
 
-[Source codes](https://redmine.ms.mff.cuni.cz/shamus-proj/shamus.git) for the search and hyperlinking system SHAMUS
+[Source codes](https://redmine.ms.mff.cuni.cz/projects/shamus-proj) for the search and hyperlinking system SHAMUS
 
 
 # Data
