@@ -8,7 +8,8 @@ author_profile: true
 # Conference Proceedings
 ## 2020
 
-Nair Suraj, **Galuščáková Petra**, Oard Douglas W.: [Combining Contextualized and non-Contextualized Query Translations to Improve CLIR](https://dl.acm.org/doi/abs/10.1145/3397271.3401270). In: 43rd International ACM SIGIR Conference of Research and Development in Information Retrieval, Accepted, Xi’An, China 2020.
+Nair Suraj, **Galuščáková Petra**, Oard Douglas W.: [Combining Contextualized and non-Contextualized Query Translations to Improve CLIR](https://dl.acm.org/doi/abs/10.1145/3397271.3401270). In: 43rd International ACM SIGIR Conference of Research and Development in Information Retrieval, pp
+1581–1584, Xi’An, China 2020.
 
 ## 2019
 
