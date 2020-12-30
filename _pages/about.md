@@ -14,5 +14,6 @@ I have been working on a wide range of information retrieval and natural languag
 
 News
 ======
+* 11/2020: We achieved the highest scores in the [TREC Podcasts Track](https://podcastsdataset.byspotify.com/) organized by Spotify. Our report is available in the TREC proceedings.
 * 05/2020: [Proceedings](https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/CLSSTS2020book.pdf) of our [Cross-Language Search and Summarization of Text and Speech](http://users.umiacs.umd.edu/~oard/clssts/) workshop is available now and it contains our paper 'MATERIALizing Cross-Language Information Retrieval: A Snapshot' among others.
 * 04/2020: Our paper 'Combining Contextualized and Non-contextualized Query Translations to Improve CLIR' was accepted to SIGIR.
