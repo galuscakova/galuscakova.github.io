@@ -11,7 +11,6 @@ Project is funded by IARPA.
 
 
 ### [Interactive information retrieval in audiovisual dialogue corpora](https://ufal.mff.cuni.cz/grants/interactive-information-retrieval-audiovisual-dialogue-corpora)
-![Shamus](https://github.com/galuscakova/galuscakova.github.io/blob/master/images/shamus.png)
 The project is aimed at the information retrieval in audiovisual corpora. The main focus was put on research of interactive methods of information retrieval. These methods should enable users to interactivelly specify and modify their search queries. The possibilities of automatic generation of the topics based on available metadata and audio and visual information will be studied as well as clustering of the topics into the larger units. Automatically generated topics will then be available for the users in the interactive interface. Users corrections will then be used for the evaluation and for the further improvement of the methods. The project was supported by the The Charles University Grant Agency.
 
 ### [CEMI](https://starfos.tacr.cz/en/project/GBP103%2F12%2FG084) (Center for large-scale multi-modal data interpretation)
