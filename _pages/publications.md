@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 # Conference Proceedings
+
+## 2021
+David Wan, Chris Kedzie, Faisal Ladhak, Elsbeth Turcan, **Petra Galuščáková**, Elena Zotkina, Zhengping Jiang, Peter Bell and Kathleen McKeown: Segmenting Subtitles for Correcting ASR Segmentation Errors. Accapted to EACL, 2021.
+
 ## 2020
 
 Nair Suraj, **Galuščáková Petra**, Oard Douglas W.: [Combining Contextualized and non-Contextualized Query Translations to Improve CLIR](https://dl.acm.org/doi/abs/10.1145/3397271.3401270). In: 43rd International ACM SIGIR Conference of Research and Development in Information Retrieval, pp
