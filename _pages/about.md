@@ -14,6 +14,7 @@ I have been working on a wide range of information retrieval and natural languag
 
 News
 ======
+* 02/2021: I will be presenting the poster '[Supporting Global Knowledge Sharing using Cross Language Information Retrieval](_data/NASA_Presentation.pdf)' at the [Second AI and Data Science Workshop for Earth and Space Sciences](https://datascience.jpl.nasa.gov/aiworkshop).
 * 01/2021: Our paper 'Segmenting Subtitles for Correcting ASR Segmentation Errors' was accepted to EACL.
 * 11/2020: We achieved the highest scores in the [TREC Podcasts Track](https://podcastsdataset.byspotify.com/) organized by Spotify. Our report is available in the TREC proceedings.
 * 05/2020: [Proceedings](https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/CLSSTS2020book.pdf) of our [Cross-Language Search and Summarization of Text and Speech](http://users.umiacs.umd.edu/~oard/clssts/) workshop is available now and it contains our paper 'MATERIALizing Cross-Language Information Retrieval: A Snapshot' among others.
