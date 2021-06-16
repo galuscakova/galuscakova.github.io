@@ -14,6 +14,9 @@ I have been working on a wide range of information retrieval and natural languag
 
 News
 ======
+* 06/2021: Our paper Tweets and Social Network Data for Twitter Bot Analysis was accepted to SBP-BRiMS.
+* 05/2021: I am spending the summer at the [SCALE](https://hltcoe.jhu.edu/research/scale/) summer camp at Johns Hopkins University.
+* 05/2021: Our paper 'Cross-language Sentence Selection via Data Augmentation and Rationale Training' was accepted to ACL.
 * 02/2021: I will be presenting the poster '[Supporting Global Knowledge Sharing using Cross Language Information Retrieval](NASA_Presentation.pdf)' at the [Second AI and Data Science Workshop for Earth and Space Sciences](https://datascience.jpl.nasa.gov/aiworkshop).
 * 01/2021: Our paper 'Segmenting Subtitles for Correcting ASR Segmentation Errors' was accepted to EACL.
 * 11/2020: We achieved the highest scores in the [TREC Podcasts Track](https://podcastsdataset.byspotify.com/) organized by Spotify. Our report is available in the TREC proceedings.
