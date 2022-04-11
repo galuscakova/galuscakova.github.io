@@ -17,9 +17,11 @@ Education
 
 Work experience
 ======
+* Since 2022: Junior researcher, Modélisation et Recherche d’Information Multimédia, Université Grenoble Alpes
+
 * 2021: Researcher, Summer Camp for Applied Language Exploration, Human Language Technology Center of Excellence, Johns Hopkins University
 
-* Since 2018: Postdoctoral Researcher, University of Maryland Institute for Advanced Computer Studies, University of Maryland
+* 2018-2021: Postdoctoral Researcher, University of Maryland Institute for Advanced Computer Studies, University of Maryland
 
 * Since 2017: Language expert, Lionbridge
 
