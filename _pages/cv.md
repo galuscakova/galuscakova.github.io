@@ -13,7 +13,7 @@ Education
 ======
 * PhD in Computational Linguistics, Institute of Formal and Applied Linguistics, Charles University, Prague, Czech Republic, 2018
 * Mgr. in Computational Linguistics (Equivalent to M.Sc.), Charles University, Prague, Czech Republic, 2011
-* Bc. in Computer Science (Equivalent to B.Sc.), Charles University, Prague, Czech Republic, 200
+* Bc. in Computer Science (Equivalent to B.Sc.), Charles University, Prague, Czech Republic, 2008
 
 Work experience
 ======
