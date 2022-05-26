@@ -4,13 +4,22 @@ title: ""
 excerpt: ""
 author_profile: true
 ---
+# Book Chapters
+
+## 2022
+**Petra Galuščáková**, Douglas W. Oard, Suraj Nair: Cross-language Information Retrieval. In: Advanced Topics for Information Retrieval, 2022.
 
 # Conference Proceedings
 
-## 2021
-Jennifer Golbeck, Niloofarsadat Alavi, Hannah K. Bako, Calvin Bao, Matthew Barzola, Corie Brown, Kristen M. Byers, Melissa Carraway, Keaunna Cleveland, Brandon Y. Feng, Shayna Foote, **Petra Galuščáková**, Auguste H. Gezalyan, Rajesh Kumar Gnanasekaran, Saeed Hadadan, Seyyedpooya Hekmatiathar, Jeffrey Henrikson, Karan D Kaur, Nikita Khatri, Nitzan Koren, Anna Lenhart, Ruiqi Li, Yannan Liu, Jennifer MacDonald, Gloria Nzeka, Neviya Prakash, Joanna Purich, Robin Reiss, Aayushi Roy, David Rudd, Anup Sathya, Nicole R Schneider, Hilary Szu Yin Shiue, Astha Singhal, John Sutton, Gabrielle Trilling, Amulya Velamakanni, Jacob Walter, Tory White, Gareth Thomas Williams, Zachary Wilton, Peratham Wiriyathammabhum, Mischa Wolfinger, Arthur Wu and Rachel Zehrung: Tweets and Social Network Data for Twitter Bot Analysis. In: 2021 International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation, Online, 2021, Accepted. 
+## 2022
+Gabriela Gonzalez-Saez, Philippe Mulhem, Lorraine Goeuriot and **Petra Galuščáková**: Multi-element protocol for IR experiments
+comparability: Application to the TREC-COVID test collection. In: Joint Conference of the Information Retrieval Communities in Europe, July 4-7, 2022, Samatan, Gers, France.
 
-Yanda Chen, Chris Kedzie, Suraj Nair, **Petra Galuščáková**, Rui Zhang, Douglas W. Oard and Kathleen McKeown: Cross-language Sentence Selection via Data Augmentation and Rationale Training. In: The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021), Online, 2021, Accepted.
+
+## 2021
+Jennifer Golbeck, Niloofarsadat Alavi, Hannah K. Bako, Calvin Bao, Matthew Barzola, Corie Brown, Kristen M. Byers, Melissa Carraway, Keaunna Cleveland, Brandon Y. Feng, Shayna Foote, **Petra Galuščáková**, Auguste H. Gezalyan, Rajesh Kumar Gnanasekaran, Saeed Hadadan, Seyyedpooya Hekmatiathar, Jeffrey Henrikson, Karan D Kaur, Nikita Khatri, Nitzan Koren, Anna Lenhart, Ruiqi Li, Yannan Liu, Jennifer MacDonald, Gloria Nzeka, Neviya Prakash, Joanna Purich, Robin Reiss, Aayushi Roy, David Rudd, Anup Sathya, Nicole R Schneider, Hilary Szu Yin Shiue, Astha Singhal, John Sutton, Gabrielle Trilling, Amulya Velamakanni, Jacob Walter, Tory White, Gareth Thomas Williams, Zachary Wilton, Peratham Wiriyathammabhum, Mischa Wolfinger, Arthur Wu and Rachel Zehrung: [Tweets and Social Network Data for Twitter Bot Analysis](http://sbp-brims.org/2021/papers/working-papers/2021_SBP-BRiMS_FinalPDF_57.pdf). In: 2021 International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation, Online, 2021. 
+
+Yanda Chen, Chris Kedzie, Suraj Nair, **Petra Galuščáková**, Rui Zhang, Douglas W. Oard and Kathleen McKeown: [Cross-language Sentence Selection via Data Augmentation and Rationale Training](https://aclanthology.org/2021.acl-long.300/). In: The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021), Online, 2021.
 
 Wan David, Kedzie Chris, Ladhak Faisal, Turcan Elsbeth, **Galuščáková Petra**, Zotkina Elena, Jiang Zhengping, Bell Peter and McKeown Kathleen: [Segmenting Subtitles for Correcting ASR Segmentation Errors](https://www.aclweb.org/anthology/2021.eacl-main.248/). In: The 16th Conference of the European Chapter of the Association for Computational Linguistics (EACL) , pp. 2842–2854, Online, 2021.
 
