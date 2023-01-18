@@ -90,8 +90,12 @@ Mareček David, Rosa Rudolf, **Galuščáková Petra**, Bojar Ondřej: [Two-step
 
 # Other Workshop Papers
 
+## 2022
+**Petra Galuščáková**, Lucas Alberede, Gabriela Nicole Gonzalez Saez, Aidan Mannion, Philippe Mulhem, Georges Quénot: Université Grenoble Alpes / LIG at
+TREC Deep Learning Track 2022, In: TREC 2022 Workshop Notebook, Gaithersburg, MD, USA, 2022.
+
 ## 2020 
-**Galuščáková Petra**, Nair Suraj, Oard Douglas W.: Combine and Re-Rank: The University of Maryland at the TREC 2020 Podcasts Track. In: TRECVID 2020 Workshop Notebook, Gaithersburg, MD, USA, 2020.
+**Galuščáková Petra**, Nair Suraj, Oard Douglas W.: Combine and Re-Rank: The University of Maryland at the TREC 2020 Podcasts Track. In: TREC 2020 Workshop Notebook, Gaithersburg, MD, USA, 2020.
 
 ## 2015    
 **Galuščáková Petra**, Batko Michal, Kruliš Martin, Lokoč Jakub, Novák David, Pecina Pavel: [CUNI at TRECVID 2015 Video Hyperlinking Task](https://www-nlpir.nist.gov/projects/tvpubs/tv15.papers/cuni.pdf). In: TRECVID 2015 Workshop Notebook, Gaithersburg, MD, USA, 2015.
