@@ -11,10 +11,16 @@ author_profile: true
 
 # Conference Proceedings
 
-## 2022
-Gabriela Gonzalez-Saez, Philippe Mulhem, Lorraine Goeuriot and **Petra Galuščáková**: Multi-element protocol for IR experiments
-comparability: Application to the TREC-COVID test collection. In: Joint Conference of the Information Retrieval Communities in Europe, July 4-7, 2022, Samatan, Gers, France.
+## 2023
+Rabab Alkhalifa, Iman Bilal, Hsuvas Borkakoty, Jose Camacho-Collados, Romain Deveaud, Alaa El-Ebshihy, Luis Espinosa-Anke, Gabriela
+Gonzalez-Saez, **Petra Galuščáková**, Lorraine Goeuriot, Elena Kochkina, Maria Liakata, Daniel Loureiro, Harish Tayyar Madabushi, Philippe
+Mulhem, Florina Piroi, Martin Popel, Christophe Servan, and Arkaitz Zubiaga: LongEval: Longitudinal Evaluation of Model Performance at CLEF 2023. In: 45th European Conference on Information Retrieval (ECIR), April 2-6 2023, Dublin, Ireland.
 
+## 2022
+Elsbeth Turcan, David Wan, Faisal Ladhak, **Petra Galuščáková**, Sukanta Sen, Svetlana Tchistiakova, Weijia Xu, Marine Carpuat, Kenneth Heafield, Douglas Oard, Kathleen McKeown: Constrained Regeneration for Cross-Lingual Query-Focused Extractive Summarization. In: The 29th International Conference on Computational Linguistics (COLING 2022), October 12-17, 2022, Gyeongju, Republic of Korea.
+
+Gabriela Gonzalez-Saez, Philippe Mulhem, Lorraine Goeuriot and **Petra Galuščáková**: Multi-element protocol for IR experiments
+comparability: Application to the TREC-COVID test collection. In: Joint Conference of the Information Retrieval Communities in Europe, July 4-7 2022, Samatan, Gers, France.
 
 ## 2021
 Jennifer Golbeck, Niloofarsadat Alavi, Hannah K. Bako, Calvin Bao, Matthew Barzola, Corie Brown, Kristen M. Byers, Melissa Carraway, Keaunna Cleveland, Brandon Y. Feng, Shayna Foote, **Petra Galuščáková**, Auguste H. Gezalyan, Rajesh Kumar Gnanasekaran, Saeed Hadadan, Seyyedpooya Hekmatiathar, Jeffrey Henrikson, Karan D Kaur, Nikita Khatri, Nitzan Koren, Anna Lenhart, Ruiqi Li, Yannan Liu, Jennifer MacDonald, Gloria Nzeka, Neviya Prakash, Joanna Purich, Robin Reiss, Aayushi Roy, David Rudd, Anup Sathya, Nicole R Schneider, Hilary Szu Yin Shiue, Astha Singhal, John Sutton, Gabrielle Trilling, Amulya Velamakanni, Jacob Walter, Tory White, Gareth Thomas Williams, Zachary Wilton, Peratham Wiriyathammabhum, Mischa Wolfinger, Arthur Wu and Rachel Zehrung: [Tweets and Social Network Data for Twitter Bot Analysis](http://sbp-brims.org/2021/papers/working-papers/2021_SBP-BRiMS_FinalPDF_57.pdf). In: 2021 International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation, Online, 2021. 
@@ -102,6 +108,3 @@ Mareček David, Rosa Rudolf, **Galuščáková Petra**, Bojar Ondřej: [Two-step
 
 ## 2012
 **Galuščáková Petra** and Pecina Pavel: [CUNI at MediaEval 2012 Search and Hyperlinking Task](http://ufal.mff.cuni.cz/~pecina/files/mediaeval-2012.pdf). In: Working Notes Proceedings of the MediaEval Workshop, Pisa, Italy, 2012
-
-
-
