@@ -14,6 +14,7 @@ I have been working on a wide range of information retrieval and natural languag
 
 News
 ======
+* 12/2023: We are organizing [LongEval Lab](https://clef-longeval.github.io/) at CLEF 2023 focused on temporal persistence of information retrieval.
 * 05/2022:I won the Most Innovative Solution - Data Extraction prize at the [NASA AI Risk Prediction Challenge](https://www.nasa.gov/risky-space-business-challenge). This was covered by major Slovak newspapers [SME](https://tech.sme.sk/c/22912540/slovenka-vyhrala-sutaz-nasa-navrhla-ako-mozu-predchadzat-rizikam.html) and [Pravda](https://vat.pravda.sk/vesmir/clanok/626627-slovenka-petra-galuscakova-pomohla-americkej-nasa-so-spracovanim-dat-vyhrala-prestiznu-cenu/).
 * 05/2022: Our paper Multi-element protocol for IR experiments comparability: Application to the TREC-COVID test collection was accepted to the [CIRCLE Conference](https://www.irit.fr/CIRCLE/).
 * 06/2021: Our paper Tweets and Social Network Data for Twitter Bot Analysis was accepted to SBP-BRiMS.
