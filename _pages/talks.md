@@ -7,10 +7,18 @@ excerpt: ""
 
 # Invited Talks
 
+## 2023
+Models Combination in Multi-stage Information Retrieval Architectures
+Leiden University, Leiden, Netherlands, January 20
+
+## 2021
+Multi-stage Information Retrieval
+Massachusetts Institute of Technology, DeCoDE lab, Online, July 7
+
 ## 2020    
 
 [Combining Evidence for Cross-language Information Retrieval](https://www.slideshare.net/galuscakova/combining-evidence-for-crosslanguage-information-retrieval)
-Fordham University, New York City, NY, USA, March 31
+Fordham University, Online, March 31
 
 Combining Modalities for Hyperlinking Navigation in Multimedia Collections
 University of Wisconsin, Madison, WI, USA, February 17
