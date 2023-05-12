@@ -12,7 +12,7 @@ author_profile: true
 # Conference Proceedings
 
 ## 2023
-**Petra Galuščáková**, Romain Deveaud, Gabriela Gonzalez-Saez, Philippe Mulhem, Lorraine Goeuriot, Florina Piroi, Martin Popel: LongEval-Retrieval: French-English Dynamic Test Collection for Continuous Web Search Evaluation. In: The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval, 23-27 July, Taipei, Taiwan.
+**Petra Galuščáková**, Romain Deveaud, Gabriela Gonzalez-Saez, Philippe Mulhem, Lorraine Goeuriot, Florina Piroi, Martin Popel: [LongEval-Retrieval: French-English Dynamic Test Collection for Continuous Web Search Evaluation](https://arxiv.org/abs/2303.03229). In: The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval, 23-27 July, Taipei, Taiwan.
 
 Dawn Lawrie, James Mayfield, Douglas W. Oard, Eugene Yang, Suraj Nair, **Petra Galuščáková**: HC3: A Suite of Test Collections for CLIR Evaluation over Informal Text. In: The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval, 23-27 July, Taipei, Taiwan.
 
