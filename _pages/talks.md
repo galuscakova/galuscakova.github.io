@@ -8,6 +8,9 @@ excerpt: ""
 # Invited Talks
 
 ## 2023
+LongEval-Retrieval: French-English Dynamic Test Collection for Continuous Web Search Evaluation
+University of Padova, Online, March 23
+
 Models Combination in Multi-stage Information Retrieval Architectures
 Leiden University, Leiden, Netherlands, January 20
 
