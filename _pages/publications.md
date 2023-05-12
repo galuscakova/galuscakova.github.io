@@ -12,6 +12,14 @@ author_profile: true
 # Conference Proceedings
 
 ## 2023
+**Petra Galuščáková**, Romain Deveaud, Gabriela Gonzalez-Saez, Philippe Mulhem, Lorraine Goeuriot, Florina Piroi, Martin Popel: LongEval-Retrieval: French-English Dynamic Test Collection for Continuous Web Search Evaluation. In: The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval, 23-27 July, Taipei, Taiwan.
+
+Dawn Lawrie, James Mayfield, Douglas W. Oard, Eugene Yang, Suraj Nair, **Petra Galuščáková**: HC3: A Suite of Test Collections for CLIR Evaluation over Informal Text. In: The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval, 23-27 July, Taipei, Taiwan.
+
+Gabriela Gonzalez-Saez, **Petra Galuščáková**, Romain Deveaud, Lorraine Goeuriot, Philippe Mulhem: Exploratory Visualization Tool for the Continuous Evaluation of Information Retrieval Systems. In: The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval, 23-27 July, Taipei, Taiwan. 
+
+**Petra Galuščáková**, Romain Deveaud, Gabriela Gonzalez-Saez, Philippe Mulhem, Lorraine Goeuriot, Florina Piroi, Martin Popel: Vers l’évaluation continue des systèmes de recherche d’information. In: la 18e Conférence en Recherche d’Information et Applications (CORIA), June 5-9 2023, Paris, France.
+
 Rabab Alkhalifa, Iman Bilal, Hsuvas Borkakoty, Jose Camacho-Collados, Romain Deveaud, Alaa El-Ebshihy, Luis Espinosa-Anke, Gabriela
 Gonzalez-Saez, **Petra Galuščáková**, Lorraine Goeuriot, Elena Kochkina, Maria Liakata, Daniel Loureiro, Harish Tayyar Madabushi, Philippe
 Mulhem, Florina Piroi, Martin Popel, Christophe Servan, and Arkaitz Zubiaga: LongEval: Longitudinal Evaluation of Model Performance at CLEF 2023. In: 45th European Conference on Information Retrieval (ECIR), April 2-6 2023, Dublin, Ireland.
@@ -69,6 +77,10 @@ Bojar Ondřej, Žabokrtský Zdeněk, Dušek Ondřej, **Galuščáková Petra**, 
 
 
 # Peer-reviewed Workshop Papers
+
+## 2023
+Gabriela Gonzalez-Saez, Alaa El-Ebshihy, Tobias Fink, **Petra Galuščáková**, Florina Piroi, David Iommi, Lorraine Goeuriot and Philippe Mulhem: [Towards Result Delta Prediction Based on Knowledge Deltas for Continuous IR Evaluation](https://ceur-ws.org/Vol-3366/paper-04.pdf). In: QPP++ 2023: Query Performance Prediction and Its Evaluation in New Tasks, Dublin, Ireland, 2023.
+
 ## 2020
 
 **Galuščáková Petra**, Nair Suraj, Oard W. Douglas, Barrow Joseph, Shing Han-Chin, Eskander Ramy Nagah, Zotkina Elena, Zhang Rui: [MATERIALizing Cross-Language     Information Retrieval: A Snapshot](https://www.aclweb.org/anthology/2020.clssts-1.3/). In: LREC Workshop on Cross-Language Search and Summarization of Text and Speech, pp 14-21,  Marseilles, France, 2020.
@@ -91,8 +103,7 @@ Mareček David, Rosa Rudolf, **Galuščáková Petra**, Bojar Ondřej: [Two-step
 # Other Workshop Papers
 
 ## 2022
-**Petra Galuščáková**, Lucas Alberede, Gabriela Nicole Gonzalez Saez, Aidan Mannion, Philippe Mulhem, Georges Quénot: Université Grenoble Alpes / LIG at
-TREC Deep Learning Track 2022, In: TREC 2022 Workshop Notebook, Gaithersburg, MD, USA, 2022.
+**Petra Galuščáková**, Lucas Alberede, Gabriela Nicole Gonzalez Saez, Aidan Mannion, Philippe Mulhem, Georges Quénot: Université Grenoble Alpes / LIG at TREC Deep Learning Track 2022, In: TREC 2022 Workshop Notebook, Gaithersburg, MD, USA, 2022.
 
 ## 2020 
 **Galuščáková Petra**, Nair Suraj, Oard Douglas W.: Combine and Re-Rank: The University of Maryland at the TREC 2020 Podcasts Track. In: TREC 2020 Workshop Notebook, Gaithersburg, MD, USA, 2020.
