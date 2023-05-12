@@ -8,7 +8,7 @@ excerpt: ""
 # Invited Talks
 
 ## 2023
-LongEval-Retrieval: French-English Dynamic Test Collection for Continuous Web Search Evaluation
+[LongEval-Retrieval: French-English Dynamic Test Collection for Continuous Web Search Evaluation](https://www.youtube.com/watch?v=3R_sreqPfAc)
 University of Padova, Online, March 23
 
 Models Combination in Multi-stage Information Retrieval Architectures
