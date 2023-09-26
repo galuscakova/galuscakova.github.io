@@ -17,7 +17,9 @@ Education
 
 Work experience
 ======
-* Since 2022: Junior researcher, Modélisation et Recherche d’Information Multimédia, Université Grenoble Alpes
+* Since 2023: Associate Professor, Department of Computer and Electrical Engineering, University of Stavanger
+
+* 2022-2023: Junior researcher, Modélisation et Recherche d’Information Multimédia, Université Grenoble Alpes
 
 * 2021: Researcher, Summer Camp for Applied Language Exploration, Human Language Technology Center of Excellence, Johns Hopkins University
 
