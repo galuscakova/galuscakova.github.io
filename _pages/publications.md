@@ -18,15 +18,15 @@ Alaa El-Ebshihy, Tobias Fink, Gabriela Gonzalez-Saez, **Petra Galuščáková**,
 
 **Petra Galuščáková**, Romain Deveaud, Gabriela Gonzalez-Saez, Philippe Mulhem, Lorraine Goeuriot, Florina Piroi, Martin Popel: [LongEval-Retrieval: French-English Dynamic Test Collection for Continuous Web Search Evaluation](https://arxiv.org/abs/2303.03229). In: The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval, 23-27 July, Taipei, Taiwan.
 
-Dawn Lawrie, James Mayfield, Douglas W. Oard, Eugene Yang, Suraj Nair, **Petra Galuščáková**: HC3: A Suite of Test Collections for CLIR Evaluation over Informal Text. In: The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval, 23-27 July, Taipei, Taiwan.
+Dawn Lawrie, James Mayfield, Douglas W. Oard, Eugene Yang, Suraj Nair, **Petra Galuščáková**: [HC3: A Suite of Test Collections for CLIR Evaluation over Informal Text](https://dl.acm.org/doi/10.1145/3539618.3591893). In: The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval, 23-27 July, Taipei, Taiwan.
 
-Gabriela Gonzalez-Saez, **Petra Galuščáková**, Romain Deveaud, Lorraine Goeuriot, Philippe Mulhem: Exploratory Visualization Tool for the Continuous Evaluation of Information Retrieval Systems. In: The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval, 23-27 July, Taipei, Taiwan. 
+Gabriela Gonzalez-Saez, **Petra Galuščáková**, Romain Deveaud, Lorraine Goeuriot, Philippe Mulhem: [Exploratory Visualization Tool for the Continuous Evaluation of Information Retrieval Systems](https://dl.acm.org/doi/10.1145/3539618.3591825). In: The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval, 23-27 July, Taipei, Taiwan. 
 
-**Petra Galuščáková**, Romain Deveaud, Gabriela Gonzalez-Saez, Philippe Mulhem, Lorraine Goeuriot, Florina Piroi, Martin Popel: Vers l’évaluation continue des systèmes de recherche d’information. In: la 18e Conférence en Recherche d’Information et Applications (CORIA), June 5-9 2023, Paris, France.
+**Petra Galuščáková**, Romain Deveaud, Gabriela Gonzalez-Saez, Philippe Mulhem, Lorraine Goeuriot, Florina Piroi, Martin Popel: [Vers l’évaluation continue des systèmes de recherche d’information](https://hal.science/hal-04131555/). In: la 18e Conférence en Recherche d’Information et Applications (CORIA), June 5-9 2023, Paris, France.
 
 Rabab Alkhalifa, Iman Bilal, Hsuvas Borkakoty, Jose Camacho-Collados, Romain Deveaud, Alaa El-Ebshihy, Luis Espinosa-Anke, Gabriela
 Gonzalez-Saez, **Petra Galuščáková**, Lorraine Goeuriot, Elena Kochkina, Maria Liakata, Daniel Loureiro, Harish Tayyar Madabushi, Philippe
-Mulhem, Florina Piroi, Martin Popel, Christophe Servan, and Arkaitz Zubiaga: LongEval: Longitudinal Evaluation of Model Performance at CLEF 2023. In: 45th European Conference on Information Retrieval (ECIR), April 2-6 2023, Dublin, Ireland.
+Mulhem, Florina Piroi, Martin Popel, Christophe Servan, and Arkaitz Zubiaga: [LongEval: Longitudinal Evaluation of Model Performance at CLEF 2023](https://link.springer.com/chapter/10.1007/978-3-031-28241-6_58). In: 45th European Conference on Information Retrieval (ECIR), April 2-6 2023, Dublin, Ireland.
 
 ## 2022
 Elsbeth Turcan, David Wan, Faisal Ladhak, **Petra Galuščáková**, Sukanta Sen, Svetlana Tchistiakova, Weijia Xu, Marine Carpuat, Kenneth Heafield, Douglas Oard, Kathleen McKeown: [Constrained Regeneration for Cross-Lingual Query-Focused Extractive Summarization](https://aclanthology.org/2022.coling-1.236/). In: The 29th International Conference on Computational Linguistics (COLING 2022), October 12-17, 2022, Gyeongju, Republic of Korea.
