@@ -40,6 +40,10 @@ IDIAP Research Institute, Martigny, Switzerland, October 29
 
 # Campus Talks
 
+## 2023
+Many Model Thinking in Complex Natural Language Processing and Information Retrieval Problems
+University of Stavanger, Stavanger, Norway, IDE TechTalk
+
 ## 2019
 MATERIALizing Cross-Language Information Retrieval
 University of Maryland, MD, USA, CLIP Talk
