@@ -12,6 +12,10 @@ author_profile: true
 # Conference Proceedings
 
 ## 2023
+Rabab Alkhalifa, Iman Bilal, Hsuvas Borkakoty, Jose Camacho-Collados, Romain Deveaud, Alaa El-Ebshihy, Luis Espinosa-Anke, Gabriela Gonzalez-Saez, **Petra Galuščáková**, Lorraine Goeuriot, Elena Kochkina, Maria Liakata, Daniel Loureiro, Philippe Mulhem, Florina Piroi, Martin Popel, Christophe Servan, Harish Tayyar Madabushi, Arkaitz Zubiaga: [Overview of the CLEF-2023 Longeval Lab on Longitudinal Evaluation of Model Performance](https://link.springer.com/chapter/10.1007/978-3-031-42448-9_28). In: International Conference of the Cross-Language Evaluation Forum for European Languages, 18-21 September, Thessaloniki, Greece.
+
+Alaa El-Ebshihy, Tobias Fink, Gabriela Gonzalez-Saez, **Petra Galuščáková**, Florina Piroi, David Iommi, Lorraine Goeuriot, Philippe Mulhem: [Predicting Retrieval Performance Changes in Evolving Evaluation Environments](https://link.springer.com/chapter/10.1007/978-3-031-42448-9_3). In: International Conference of the Cross-Language Evaluation Forum for European Languages, 18-21 September, Thessaloniki, Greece.
+
 **Petra Galuščáková**, Romain Deveaud, Gabriela Gonzalez-Saez, Philippe Mulhem, Lorraine Goeuriot, Florina Piroi, Martin Popel: [LongEval-Retrieval: French-English Dynamic Test Collection for Continuous Web Search Evaluation](https://arxiv.org/abs/2303.03229). In: The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval, 23-27 July, Taipei, Taiwan.
 
 Dawn Lawrie, James Mayfield, Douglas W. Oard, Eugene Yang, Suraj Nair, **Petra Galuščáková**: HC3: A Suite of Test Collections for CLIR Evaluation over Informal Text. In: The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval, 23-27 July, Taipei, Taiwan.
@@ -38,12 +42,10 @@ Yanda Chen, Chris Kedzie, Suraj Nair, **Petra Galuščáková**, Rui Zhang, Doug
 Wan David, Kedzie Chris, Ladhak Faisal, Turcan Elsbeth, **Galuščáková Petra**, Zotkina Elena, Jiang Zhengping, Bell Peter and McKeown Kathleen: [Segmenting Subtitles for Correcting ASR Segmentation Errors](https://www.aclweb.org/anthology/2021.eacl-main.248/). In: The 16th Conference of the European Chapter of the Association for Computational Linguistics (EACL) , pp. 2842–2854, Online, 2021.
 
 ## 2020
-
 Nair Suraj, **Galuščáková Petra**, Oard Douglas W.: [Combining Contextualized and non-Contextualized Query Translations to Improve CLIR](https://dl.acm.org/doi/abs/10.1145/3397271.3401270). In: 43rd International ACM SIGIR Conference of Research and Development in Information Retrieval, pp
 1581–1584, Xi’An, China 2020.
 
 ## 2019
-
 Nair Suraj, Ragni Anton, Klejch Ondrej, **Galuščáková Petra** and Oard W. Douglas: [Experiments with Cross-Language Speech Retrieval for Lower-Resource Languages](https://link.springer.com/chapter/10.1007/978-3-030-42835-8_13). In: Asia Information Retrieval Societies Conference, AIRS 2019, pp 145-157, Hong Kong, China, 2019.
 
 Shing Han-Chin, Barrow Joe, **Galuščáková Petra**, Oard W. Douglas, Resnik Philip: [Unsupervised System Combination for Set-based Retrieval with Expectation    Maximization](https://link.springer.com/chapter/10.1007/978-3-030-28577-7_16). In: International Conference of the Cross-Language Evaluation Forum for European Languages, CLEF 2019, pp. 191-197, Lugano, Switzerland, 2019.
@@ -82,7 +84,6 @@ Bojar Ondřej, Žabokrtský Zdeněk, Dušek Ondřej, **Galuščáková Petra**, 
 Gabriela Gonzalez-Saez, Alaa El-Ebshihy, Tobias Fink, **Petra Galuščáková**, Florina Piroi, David Iommi, Lorraine Goeuriot and Philippe Mulhem: [Towards Result Delta Prediction Based on Knowledge Deltas for Continuous IR Evaluation](https://ceur-ws.org/Vol-3366/paper-04.pdf). In: QPP++ 2023: Query Performance Prediction and Its Evaluation in New Tasks, Dublin, Ireland, 2023.
 
 ## 2020
-
 **Galuščáková Petra**, Nair Suraj, Oard W. Douglas, Barrow Joseph, Shing Han-Chin, Eskander Ramy Nagah, Zotkina Elena, Zhang Rui: [MATERIALizing Cross-Language     Information Retrieval: A Snapshot](https://www.aclweb.org/anthology/2020.clssts-1.3/). In: LREC Workshop on Cross-Language Search and Summarization of Text and Speech, pp 14-21,  Marseilles, France, 2020.
 
 ## 2019
@@ -102,8 +103,11 @@ Mareček David, Rosa Rudolf, **Galuščáková Petra**, Bojar Ondřej: [Two-step
 
 # Other Workshop Papers
 
+## 2023
+Rabab Alkhalifa, Iman Bilal, Hsuvas Borkakoty, Jose Camacho-Collados, Romain Deveaud, Alaa El-Ebshihy, Luis Espinosa-Anke, Gabriela Gonzalez-Saez, **Petra Galuščáková**, Lorraine Goeuriot, Elena Kochkina, Maria Liakata, Daniel Loureiro, Philippe Mulhem, Florina Piroi, Martin Popel, Christophe Servan, Harish Tayyar Madabushi, Arkaitz Zubiaga: [Extended Overview of the CLEF-2023 LongEval Lab on Longitudinal Evaluation of Model Performance](https://researchportal.bath.ac.uk/en/publications/extended-overview-of-the-clef-2023-longeval-lab-on-longitudinal-e). In: International Conference of the Cross-Language Evaluation Forum for European Languages, CEUR Workshop Proceedings, 18-21 September, Thessaloniki, Greece.
+
 ## 2022
-**Petra Galuščáková**, Lucas Alberede, Gabriela Nicole Gonzalez Saez, Aidan Mannion, Philippe Mulhem, Georges Quénot: Université Grenoble Alpes / LIG at TREC Deep Learning Track 2022, In: TREC 2022 Workshop Notebook, Gaithersburg, MD, USA, 2022.
+**Petra Galuščáková**, Lucas Alberede, Gabriela Nicole Gonzalez Saez, Aidan Mannion, Philippe Mulhem, Georges Quénot: Université Grenoble Alpes / LIG at TREC Deep Learning Track 2022. In: TREC 2022 Workshop Notebook, Gaithersburg, MD, USA, 2022.
 
 ## 2020 
 **Galuščáková Petra**, Nair Suraj, Oard Douglas W.: Combine and Re-Rank: The University of Maryland at the TREC 2020 Podcasts Track. In: TREC 2020 Workshop Notebook, Gaithersburg, MD, USA, 2020.
