@@ -14,6 +14,7 @@ I have been working on a wide range of information retrieval and natural languag
 
 News
 ======
+* 1/2024: I am looking for a Ph.D. student interested in working on an intersection of Information Retrieval and Large Language Models. If you are interested, please apply on [Jobbnorge](https://www.jobbnorge.no/en/available-jobs/job/253855/phd-fellowship-in-natural-language-processing-and-information-retrieval) or reach out to [ask any question](mailto:petra.galuscakova@uis.no).
 * 9/2023: I started as an associate professor at the [University of Stavanger](https://www.uis.no/en), [Department of Computer and Electrical Engineering](https://www.uis.no/en/about-uis/department-of-electrical-engineering-and-computer-science), where I will be a part of the [Information Access & Artificial Intelligence (IAI) research group](https://iai.group/).
 * 6/2023: I serve as a lab chair at [CLEF 2024](https://clef2024.imag.fr/index.php).
 * 5/2023: Two resource papers (*LongEval-Retrieval: French-English Dynamic Test Collection for Continuous Web Search Evaluation*  and *HC3: A Suite of Test Collections for CLIR Evaluation over Informal Text*) and one demo paper (*Exploratory Visualization Tool for the Continuous Evaluation of Information Retrieval Systems*) accepted to SIGIR 2023. 
