@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Since 2023: Associate Professor, Department of Computer and Electrical Engineering, University of Stavanger
+* Since 2023: Associate Professor, Department of Electrical Engineering and Computer Science, University of Stavanger
 
 * 2022-2023: Junior researcher, Modélisation et Recherche d’Information Multimédia, Université Grenoble Alpes
 
