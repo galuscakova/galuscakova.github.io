@@ -16,7 +16,7 @@ Viacheslav Nikolaichuk (Bc)\
 Magnus Ziem (Bc)\
 Diana Swaid Swaidan (Bc)\
 Gowindage Lisan Menuja Kuruppu (Bc, co-supervised with Alvaro Fernandez Quilez)\
-Preben Skjelbred Andersen (Bc, co-supervised with Alvaro Fernandez Quilez)\
+Preben Skjelbred Andersen (Bc, co-supervised with Alvaro Fernandez Quilez)
 
 # Graduated Students
 
