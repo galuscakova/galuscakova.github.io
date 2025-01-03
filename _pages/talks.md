@@ -7,6 +7,10 @@ excerpt: ""
 
 # Invited Talks
 
+## 2024
+[Evaluating Temporal Persistence of Information Retrieval Models at CLEF 2024 LongEval](https://www.youtube.com/watch?v=o1Zf0_AzimA)
+University of Padova, Online, April 5
+
 ## 2023
 [LongEval-Retrieval: French-English Dynamic Test Collection for Continuous Web Search Evaluation](https://www.youtube.com/watch?v=3R_sreqPfAc)
 University of Padova, Online, March 23
