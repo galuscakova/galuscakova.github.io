@@ -21,6 +21,8 @@ The collection serves as the official training collection for the 2023 [LongEval
 [LongEval Test Collection](http://hdl.handle.net/11234/1-5139)
 The collection serves as the official test collection for the 2023 [LongEval Information Retrieval Lab](https://clef-longeval.github.io/) organised at CLEF. The collection contains test datasets for two organized sub-tasks: short-term persistence (sub-task A) and long-term persistence (sub-task B). The data for the short-term persistence sub-task was collected over July 2022 and this dataset contains 1,593,376 documents and 882 queries. The data for the long-term persistence sub-task was collected over September 2022 and this dataset consists of 1,081,334 documents and 923 queries.
 
+The 2024 versions of the Longeval collection: [LongEval 2024 Train Collection](https://researchdata.tuwien.at/doi/10.48436/cn2kq-6b306) and [LongEval 2024 Test Collection](https://researchdata.tuwien.ac.at/doi/10.48436/p026v-96e13).
+
 [Czech Cross-langauge Speech Retrieval Test Collection Malach](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-1912)
 Czech recordings provided by the Visual History Archive which consists of the interviews with the Holocaust survivors. The archive consists of audio recordings, four types of automatic transcripts, manual annotations of selected topics and interviews' metadata. The archive totally contains 353 recordings and 592 hours of interviews.
 
