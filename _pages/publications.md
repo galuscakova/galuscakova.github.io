@@ -11,6 +11,17 @@ author_profile: true
 
 # Conference Proceedings
 
+## 2024
+Rabab Alkhalifa, Hsuvas Borkakoty, Romain Deveaud, Alaa El-Ebshihy, Luis Espinosa-Anke, Tobias Fink, Petra Galuščáková, Gabriela Gonzalez-Saez, Lorraine Goeuriot, David Iommi, Maria Liakata, Harish Tayyar Madabushi, Pablo Medina-Alias, Philippe Mulhem, Florina Piroi, Martin Popel, Arkaitz Zubiaga: [Overview of the CLEF 2024 LongEval lab on longitudinal evaluation of model performance](https://dl.acm.org/doi/10.1007/978-3-031-71908-0_10). In: European Conference on Information Retrieval, 9-12 September, Grenoble, France.
+
+Nolwenn Bernard, Ivica Kostric, Weronika Łajewska, Krisztian Balog, Petra Galusčáková, Vinay Setty, Martin G Skjæveland: [PKG API: A tool for personal knowledge graph management](https://arxiv.org/pdf/2402.07540), In: WWW '24: Companion Proceedings of the ACM Web Conference 2024, 13-17 May, Singapore, Singapore.
+
+Gabriela Gonzalez-Saez, Petra Galuščáková, Romain Deveaud, Philippe Mulhem, Lorraine Goeuriot: [Outil d’exploration visuelle de l’évaluation longitudinale en Recherche d’Information](https://hal.science/hal-04577440/document), In: COnférence en Recherche d'Informations et Applications (CORIA), 3-4 April, La Rochelle, France. 
+
+Thi Hoang Thi Pham, **Petra Galuščáková**, Philippe Mulhem, Gabriela Nicole González, Lorraine Goeuriot: [Impact des collections sur les performances des Systèmes de Recherche d'Information](https://hal.science/hal-04552455/document), In: COnférence en Recherche d'Informations et Applications (CORIA), 3-4 April, La Rochelle, France. 
+
+Rabab Alkhalifa, Hsuvas Borkakoty, Romain Deveaud, Alaa El-Ebshihy, Luis Espinosa-Anke, Tobias Fink, Gabriela Gonzalez-Saez, **Petra Galuščáková**, Lorraine Goeuriot, David Iommi, Maria Liakata, Harish Tayyar Madabushi, Pablo Medina-Alias, Philippe Mulhem, Florina Piroi, Martin Popel, Christophe Servan, Arkaitz Zubiaga: [LongEval: Longitudinal Evaluation of Model Performance at CLEF 2024](https://drive.google.com/file/d/11RJ7Fp3TtzudsW1TafFmUfzhOEk0tcGe/view). In: 46th European Conference on Information Retrieval (ECIR), 24-28 March, Glasgow, Scotland.
+
 ## 2023
 Rabab Alkhalifa, Iman Bilal, Hsuvas Borkakoty, Jose Camacho-Collados, Romain Deveaud, Alaa El-Ebshihy, Luis Espinosa-Anke, Gabriela Gonzalez-Saez, **Petra Galuščáková**, Lorraine Goeuriot, Elena Kochkina, Maria Liakata, Daniel Loureiro, Philippe Mulhem, Florina Piroi, Martin Popel, Christophe Servan, Harish Tayyar Madabushi, Arkaitz Zubiaga: [Overview of the CLEF-2023 Longeval Lab on Longitudinal Evaluation of Model Performance](https://link.springer.com/chapter/10.1007/978-3-031-42448-9_28). In: International Conference of the Cross-Language Evaluation Forum for European Languages, 18-21 September, Thessaloniki, Greece.
 
@@ -25,8 +36,7 @@ Gabriela Gonzalez-Saez, **Petra Galuščáková**, Romain Deveaud, Lorraine Goeu
 **Petra Galuščáková**, Romain Deveaud, Gabriela Gonzalez-Saez, Philippe Mulhem, Lorraine Goeuriot, Florina Piroi, Martin Popel: [Vers l’évaluation continue des systèmes de recherche d’information](https://hal.science/hal-04131555/). In: la 18e Conférence en Recherche d’Information et Applications (CORIA), June 5-9 2023, Paris, France.
 
 Rabab Alkhalifa, Iman Bilal, Hsuvas Borkakoty, Jose Camacho-Collados, Romain Deveaud, Alaa El-Ebshihy, Luis Espinosa-Anke, Gabriela
-Gonzalez-Saez, **Petra Galuščáková**, Lorraine Goeuriot, Elena Kochkina, Maria Liakata, Daniel Loureiro, Harish Tayyar Madabushi, Philippe
-Mulhem, Florina Piroi, Martin Popel, Christophe Servan, and Arkaitz Zubiaga: [LongEval: Longitudinal Evaluation of Model Performance at CLEF 2023](https://link.springer.com/chapter/10.1007/978-3-031-28241-6_58). In: 45th European Conference on Information Retrieval (ECIR), April 2-6 2023, Dublin, Ireland.
+Gonzalez-Saez, **Petra Galuščáková**, Lorraine Goeuriot, Elena Kochkina, Maria Liakata, Daniel Loureiro, Harish Tayyar Madabushi, Philippe Mulhem, Florina Piroi, Martin Popel, Christophe Servan, and Arkaitz Zubiaga: [LongEval: Longitudinal Evaluation of Model Performance at CLEF 2023](https://link.springer.com/chapter/10.1007/978-3-031-28241-6_58). In: 45th European Conference on Information Retrieval (ECIR), April 2-6 2023, Dublin, Ireland.
 
 ## 2022
 Elsbeth Turcan, David Wan, Faisal Ladhak, **Petra Galuščáková**, Sukanta Sen, Svetlana Tchistiakova, Weijia Xu, Marine Carpuat, Kenneth Heafield, Douglas Oard, Kathleen McKeown: [Constrained Regeneration for Cross-Lingual Query-Focused Extractive Summarization](https://aclanthology.org/2022.coling-1.236/). In: The 29th International Conference on Computational Linguistics (COLING 2022), October 12-17, 2022, Gyeongju, Republic of Korea.
@@ -84,7 +94,7 @@ Bojar Ondřej, Žabokrtský Zdeněk, Dušek Ondřej, **Galuščáková Petra**, 
 Gabriela Gonzalez-Saez, Alaa El-Ebshihy, Tobias Fink, **Petra Galuščáková**, Florina Piroi, David Iommi, Lorraine Goeuriot and Philippe Mulhem: [Towards Result Delta Prediction Based on Knowledge Deltas for Continuous IR Evaluation](https://ceur-ws.org/Vol-3366/paper-04.pdf). In: QPP++ 2023: Query Performance Prediction and Its Evaluation in New Tasks, Dublin, Ireland, 2023.
 
 ## 2020
-**Galuščáková Petra**, Nair Suraj, Oard W. Douglas, Barrow Joseph, Shing Han-Chin, Eskander Ramy Nagah, Zotkina Elena, Zhang Rui: [MATERIALizing Cross-Language     Information Retrieval: A Snapshot](https://www.aclweb.org/anthology/2020.clssts-1.3/). In: LREC Workshop on Cross-Language Search and Summarization of Text and Speech, pp 14-21,  Marseilles, France, 2020.
+**Galuščáková Petra**, Nair Suraj, Oard W. Douglas, Barrow Joseph, Shing Han-Chin, Eskander Ramy Nagah, Zotkina Elena, Zhang Rui: [MATERIALizing Cross-Language Information Retrieval: A Snapshot](https://www.aclweb.org/anthology/2020.clssts-1.3/). In: LREC Workshop on Cross-Language Search and Summarization of Text and Speech, pp 14-21,  Marseilles, France, 2020.
 
 ## 2019
 Oard W. Douglas, Carpuat Marine, **Galuščáková Petra**, Barrow Joseph, Nair Suraj, Niu Xing, Shing Han-Chin, Xu Weijia, Zotkina Elena, McKeown Kathleen, Muresan     Smaranda, Kayi Efsun Selin, Eskander Ramy, Kedzie Chris, Virin Yan, Radev Dragomir, Zhang Rui, Gales Mark, Ragni Anton, Heafield Kenneth: [Surprise Languages: Rapid-Response Cross-Language IR](https://www.research.ed.ac.uk/portal/files/94992899/Surprise_Languages_Rapid_Response_HEAFIELD_DoA200519_AFV.pdf). In: The 9th International Workshop on Evaluating Information Access, EVIA 2019, pp. 23-28, Tokyo, Japan, 2019.
@@ -102,6 +112,11 @@ Tamchyna Aleš, **Galuščáková Petra**, Kamran Amir, Stanojević Miloš, Boja
 Mareček David, Rosa Rudolf, **Galuščáková Petra**, Bojar Ondřej: [Two-step Translation with Grammatical Post-processing](https://www.aclweb.org/anthology/W11-2152/). In: Proceedings of the Sixth Workshop on Statistical Machine Translation, WMT 2011, pp. 426-432, Edinburgh, Scotland, 2011.
 
 # Other Workshop Papers
+
+## 2024
+Philippe Mulhem, Rabab Alkhalifa, Hsuvas Borkakoty, Romain Deveaud, Alaa El-Ebshihy, Luis Espinosa Anke, Tobias Fink, Petra Galuscáková, Gabriela González Sáez, Lorraine Goeuriot, David Iommi, Maria Liakata, Harish Tayyar Madabushi, Pablo Medina-Alias, Florina Piroi, Martin Popel, Arkaitz Zubiaga: [Extended overview of the CLEF 2024 LongEval Lab on Longitudinal Evaluation of Model Performance](https://hal.science/hal-04738324/document), In: International Conference of the Cross-Language Evaluation Forum for European Languages, CEUR Workshop Proceedings, 9-12 September, Grenoble, France.
+
+Peter Røysland Aarnes, Vinay Setty, **Petra Galuščáková**: [IAI Group at CheckThat! 2024: Transformer Models and Data Augmentation for Checkworthy Claim Detection](https://arxiv.org/pdf/2408.01118?), In: International Conference of the Cross-Language Evaluation Forum for European Languages, CEUR Workshop Proceedings, 9-12 September, Grenoble, France.
 
 ## 2023
 Rabab Alkhalifa, Iman Bilal, Hsuvas Borkakoty, Jose Camacho-Collados, Romain Deveaud, Alaa El-Ebshihy, Luis Espinosa-Anke, Gabriela Gonzalez-Saez, **Petra Galuščáková**, Lorraine Goeuriot, Elena Kochkina, Maria Liakata, Daniel Loureiro, Philippe Mulhem, Florina Piroi, Martin Popel, Christophe Servan, Harish Tayyar Madabushi, Arkaitz Zubiaga: [Extended Overview of the CLEF-2023 LongEval Lab on Longitudinal Evaluation of Model Performance](https://researchportal.bath.ac.uk/en/publications/extended-overview-of-the-clef-2023-longeval-lab-on-longitudinal-e). In: International Conference of the Cross-Language Evaluation Forum for European Languages, CEUR Workshop Proceedings, 18-21 September, Thessaloniki, Greece.
