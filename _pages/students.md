@@ -9,8 +9,8 @@ Contact me if you are interested in working with me.
 
 # Current Students
 [Gabriel Iturra-Bocaz](https://giturra.cl/) (PhD)\
-[Mariam Arustashvili](https://www.linkedin.com/in/mariam-arustashvili-4a6a35175/)(PhD, co-supervised with Krisztian Balog)\
-[Michal Chudoba](https://www.linkedin.com/in/michal-chudoba-06603b241/) (PhD, co-supervised with Tomasz Wiktorski and Sergey Alyaev)
+[Mariam Arustashvili] (https://www.linkedin.com/in/mariam-arustashvili-4a6a35175/)(PhD, co-supervised with Krisztian Balog)\
+[Michal Chudoba] (https://www.linkedin.com/in/michal-chudoba-06603b241/) (PhD, co-supervised with Tomasz Wiktorski and Sergey Alyaev)
 Eirik Wilhelmsen (Msc)\
 Abdullah Al Sajid (Msc, co-supervised with Arild Michel Bakken)
 Ole Jørgen Skjervik (Bc)\
