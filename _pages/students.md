@@ -12,7 +12,7 @@ Contact me if you are interested in working with me.
 [Mariam Arustashvili](https://www.linkedin.com/in/mariam-arustashvili-4a6a35175/) (PhD, co-supervised with Krisztian Balog)\
 [Michal Chudoba](https://www.linkedin.com/in/michal-chudoba-06603b241/) (PhD, co-supervised with Tomasz Wiktorski and Sergey Alyaev)
 Eirik Wilhelmsen (Msc)\
-Abdullah Al Sajid (Msc, co-supervised with Arild Michel Bakken)
+Abdullah Al Sajid (Msc, co-supervised with Arild Michel Bakken)\
 Ole Jørgen Skjervik (Bc)\
 Sture Odin Domingos Troli (Bc)\
 Yosuf Riadh Al-Ani (Bc)
