@@ -15,6 +15,7 @@ I have been working on a wide range of information retrieval and natural languag
 News
 ======
 * 2/2026: We have a fully funded 3-year PhD position on an interdisciplinary project developing AI-based systems for clinical decision support, leveraging clinical text and multimodal data. Let me know if you are interested in further details.
+* 1/2026 We are organizing a new RAG Task which will be a part of [CLEF LongEval Track](https://clef-longeval.github.io/) this year.
 * 10/2025: I am serving as a Reproducibility Chair for [ECIR 2026](https://ecir2026.eu/).
 * 06/2025: I will be present at SIGIR 2025. I will be presenting a demo paper [Navigating Speech Recording Collections with AI-Generated Illustrations](https://dl.acm.org/doi/abs/10.1145/3726302.3730136) done together with my bachelor students Sirina Håland and Trond Karlsen Strøm and [Gabriel Iturra-Bocaz](https://giturra.cl/) will be presenting at ICTIR our paper [Impact of Shallow vs. Deep Relevance Judgments on BERT-based Reranking Models](https://dl.acm.org/doi/pdf/10.1145/3731120.3744602).
 * 9/2024: I am happy to be a part of [CLEF Steering Committee](https://www.clef-initiative.eu/).
