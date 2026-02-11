@@ -14,6 +14,10 @@ I have been working on a wide range of information retrieval and natural languag
 
 News
 ======
+* 2/2026: We have a fully funded 3-year PhD position on an interdisciplinary project developing AI-based systems for clinical decision support, leveraging clinical text and multimodal data. Let me know if you are interested in further details.
+* 10/2025: I am serving as a Reproducibility Chair for [ECIR 2026](https://ecir2026.eu/).
+* 06/2025: I will be present at SIGIR 2025. I will be presenting a demo paper [Navigating Speech Recording Collections with AI-Generated Illustrations](https://dl.acm.org/doi/abs/10.1145/3726302.3730136) done together with my bachelor students Sirina Håland and Trond Karlsen Strøm and [Gabriel Iturra-Bocaz](https://giturra.cl/) will be presenting at ICTIR our paper [Impact of Shallow vs. Deep Relevance Judgments on BERT-based Reranking Models](https://dl.acm.org/doi/pdf/10.1145/3731120.3744602).
+* 9/2024: I am happy to be a part of [CLEF Steering Committee](https://www.clef-initiative.eu/).
 * 1/2024: I am looking for a Ph.D. student interested in working on an intersection of Information Retrieval and Large Language Models. If you are interested, please apply on [Jobbnorge](https://www.jobbnorge.no/en/available-jobs/job/253855/phd-fellowship-in-natural-language-processing-and-information-retrieval) or reach out to [ask any question](mailto:petra.galuscakova@uis.no).
 * 9/2023: I started as an associate professor at the [University of Stavanger](https://www.uis.no/en), [Department of Computer and Electrical Engineering](https://www.uis.no/en/about-uis/department-of-electrical-engineering-and-computer-science), where I will be a part of the [Information Access & Artificial Intelligence (IAI) research group](https://iai.group/).
 * 6/2023: I serve as a lab chair at [CLEF 2024](https://clef2024.imag.fr/index.php).
